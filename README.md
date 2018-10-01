@@ -7,3 +7,6 @@
 * add
 * commit
 * log
+
+## TODO
+* diff
